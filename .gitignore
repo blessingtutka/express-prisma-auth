@@ -1,0 +1,9 @@
+# All
+
+node_modules 
+pnpm-lock.yaml
+#Enviromnent Variable
+.env
+.vscode
+# Prisma
+prisma/migrations
